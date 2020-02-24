@@ -1,1 +1,3 @@
-# ultimate_data_science_challenge
+# Ultimate Data Science Challenge
+
+* See PDF for challenge details
